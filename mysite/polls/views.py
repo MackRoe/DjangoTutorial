@@ -1,7 +1,9 @@
 from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse
 from .models import Question
-# from django.template import loader ## not needed while importing render
+from django.template import loader
+# according to the tutorial, loader is not needed while importing render,
+# but page produces NameError at /
 
 
 def index(request):
