@@ -1,4 +1,4 @@
-This project was restarted and can be found in sits
+This project was restarted and can be found in its
 entirety in the repository named
 # Polls_DjangoTutorial (https://github.com/MackRoe/Polls_DjangoTutorial)
 
